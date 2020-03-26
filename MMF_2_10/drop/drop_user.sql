@@ -1,0 +1,2 @@
+PROMPT ==== DROP_USER====
+DROP USER &1;
